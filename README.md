@@ -72,13 +72,18 @@ module Exp_12 (
 endmodule
 ```
 
+Program for 4 Bit Ripple Counter and verify its truth table in quartus using Verilog programming.
+
+<img width="672" height="604" alt="image" src="https://github.com/user-attachments/assets/bf2c7f13-aa92-4080-94af-6d45fcde4a32" />
+
+
  Developed by: LOHINI S 
  RegisterNumber: 25015038
 */
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
-<img width="1170" height="456" alt="image" src="https://github.com/user-attachments/assets/bc6b0369-21e3-4ef2-9504-0b223a3e49ef" />
+<img width="1224" height="555" alt="image" src="https://github.com/user-attachments/assets/8676c187-c8ff-4aba-92de-d8a5bd635c0e" />
 
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
@@ -88,4 +93,4 @@ endmodule
 
 **RESULTS**
 
-Thus the program executed succesfully.
+Thus 4-BIT-RIPPLE-COUNTER is verified successfully.
